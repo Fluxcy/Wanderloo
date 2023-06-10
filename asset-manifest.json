@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/wanderloo/static/css/main.39232c6a.css",
+    "main.js": "/wanderloo/static/js/main.1a60e5f2.js",
+    "static/media/Video 1.mp4": "/wanderloo/static/media/Video 1.614b2e4ecc9eac38d3af.mp4",
+    "static/media/Video 2.mp4": "/wanderloo/static/media/Video 2.0b4341a0772a77f7386e.mp4",
+    "static/media/img 9.jpg": "/wanderloo/static/media/img 9.4d35b6acf30bd3e66339.jpg",
+    "static/media/img 6.jpg": "/wanderloo/static/media/img 6.611e7ea8853c3e01ea12.jpg",
+    "static/media/img 4.jpg": "/wanderloo/static/media/img 4.1ce17544511ae8d0426d.jpg",
+    "static/media/img 2.jpg": "/wanderloo/static/media/img 2.e630a57efecbedfa7b50.jpg",
+    "static/media/img 8.jpg": "/wanderloo/static/media/img 8.b9ee31995c39b53530ec.jpg",
+    "static/media/img 5.jpg": "/wanderloo/static/media/img 5.a6ccc42ca4c4b5273574.jpg",
+    "static/media/img 3.jpg": "/wanderloo/static/media/img 3.d5a87d0d1787e8f2398e.jpg",
+    "static/media/img 7.jpg": "/wanderloo/static/media/img 7.2d224476899ce883532c.jpg",
+    "static/media/img 1.jpg": "/wanderloo/static/media/img 1.f026b2efcbf3d6816cd5.jpg",
+    "index.html": "/wanderloo/index.html",
+    "main.39232c6a.css.map": "/wanderloo/static/css/main.39232c6a.css.map",
+    "main.1a60e5f2.js.map": "/wanderloo/static/js/main.1a60e5f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39232c6a.css",
+    "static/js/main.1a60e5f2.js"
+  ]
+}
